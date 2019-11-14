@@ -1,0 +1,3 @@
+C:\Users\Alexandre\Desktop\GB\Source\GB\GB.Build.cs
+C:\Users\Alexandre\Desktop\GB\Source\GB.Target.cs
+C:\Users\Alexandre\Desktop\GB\Source\GBEditor.Target.cs

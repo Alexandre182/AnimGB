@@ -1,0 +1,1080 @@
+﻿Log file open, 11/13/19 20:18:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GB
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277327
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.13-23.18.54:386][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.13-23.18.54:386][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.13-23.18.54:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:386][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.13-23.18.54:386][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.13-23.18.54:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:386][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.13-23.18.54:387][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:387][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:394][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-23.18.54:394][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-23.18.54:395][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-23.18.54:395][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-23.18.54:395][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.13-23.18.54:416][  0]LogHAL: Display: Platform has ~ 16 GB [17125179392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.13-23.18.54:416][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.13-23.18.54:416][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-23.18.54:416][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.13-23.18.54:417][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre/Desktop/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.13-23.18.54:417][  0]LogInit: Computer: DESKTOP-PIVJ3MB
+[2019.11.13-23.18.54:418][  0]LogInit: User: Alexandre
+[2019.11.13-23.18.54:418][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.13-23.18.54:418][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.13-23.18.54:418][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.13-23.18.54:418][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.13-23.18.54:418][  0]LogMemory: Process Physical Memory: 97.05 MB used, 97.06 MB peak
+[2019.11.13-23.18.54:418][  0]LogMemory: Process Virtual Memory: 88.94 MB used, 88.94 MB peak
+[2019.11.13-23.18.54:418][  0]LogMemory: Physical Memory: 4504.95 MB used,  11826.90 MB free, 16331.84 MB total
+[2019.11.13-23.18.54:418][  0]LogMemory: Virtual Memory: 4642.21 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.11.13-23.18.54:437][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.13-23.18.54:437][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.11.13-23.18.54:618][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.13-23.18.54:664][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.13-23.18.54:664][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.13-23.18.54:849][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-23.18.54:850][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.13-23.18.54:927][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.11.13-23.18.54:927][  0]LogD3D11RHI:       6052/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.13-23.18.54:929][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.13-23.18.54:929][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.13-23.18.54:929][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.13-23.18.54:936][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.13-23.18.54:936][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.13-23.18.54:936][  0]LogWindows: EnumDisplayDevices:
+[2019.11.13-23.18.54:936][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.11.13-23.18.54:936][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.11.13-23.18.54:937][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.13-23.18.54:937][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.13-23.18.54:937][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.13-23.18.54:937][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.11.13-23.18.54:937][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.11.13-23.18.54:937][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.11.13-23.18.54:937][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.13-23.18.54:993][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.13-23.18.55:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-23.18.55:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-23.18.55:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-23.18.55:014][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.13-23.18.55:377][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.13-23.18.55:394][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.13-23.18.55:411][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.13-23.18.55:426][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.13-23.18.55:442][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.13-23.18.55:458][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.13-23.18.55:474][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.13-23.18.55:489][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.13-23.18.55:497][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.13-23.18.55:583][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.13-23.18.55:584][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.13-23.18.55:585][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.13-23.18.55:637][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.13-23.18.55:637][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.13-23.18.55:662][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.13-23.18.55:662][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.13-23.18.55:675][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.13-23.18.55:688][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.13-23.18.55:701][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.13-23.18.55:715][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.13-23.18.55:766][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.13-23.18.55:766][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.13-23.18.55:766][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.13-23.18.55:775][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.13-23.18.55:819][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../Users/Alexandre/Desktop/GB/Intermediate/Shaders/WorkingDirectory/10048/).
+[2019.11.13-23.18.55:819][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexandre/AppData/Local/Temp/UnrealShaderWorkingDir/DC78BCC746B780A869A99CBCD18DDCC7/'.
+[2019.11.13-23.18.55:821][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.13-23.18.55:822][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.13-23.18.55:822][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.13-23.18.56:440][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexandre/Desktop/GB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexandre/Desktop/GB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-23.18.56:488][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.13-23.18.56:500][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.13-23.18.56:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-23.18.56:501][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.13-23.18.56:513][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexandre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.13-23.18.56:513][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.13-23.18.56:513][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.13-23.18.56:541][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.13-23.18.56:543][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.13-23.18.56:543][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.13-23.18.56:629][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.11.13-23.18.57:025][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-23.18.57:167][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.13-23.18.57:167][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.13-23.18.57:167][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.13-23.18.57:167][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.13-23.18.57:167][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.13-23.18.57:177][  0]LogNetVersion: GB 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1782906311)
+[2019.11.13-23.18.57:600][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.049772 seconds
+[2019.11.13-23.18.57:607][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.13-23.18.57:607][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.13-23.18.57:607][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.13-23.18.58:451][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.13-23.18.58:465][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.13-23.18.58:588][  0]SourceControl: Source control is disabled
+[2019.11.13-23.18.58:588][  0]SourceControl: Source control is disabled
+[2019.11.13-23.18.58:589][  0]SourceControl: Source control is disabled
+[2019.11.13-23.18.58:590][  0]SourceControl: Source control is disabled
+[2019.11.13-23.18.58:670][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.13-23.18.58:744][  0]LogOcInput: OculusInput pre-init called
+[2019.11.13-23.18.59:402][  0]LogEngine: Initializing Engine...
+[2019.11.13-23.18.59:403][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-23.18.59:404][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.13-23.18.59:620][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.13-23.18.59:633][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.13-23.18.59:648][  0]LogInit: XAudio2 using 'Alto-falantes (HyperX Cloud Revolver S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.13-23.18.59:665][  0]LogInit: FAudioDevice initialized.
+[2019.11.13-23.18.59:666][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.13-23.18.59:783][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.13-23.18.59:789][  0]LogInit: Texture streaming: Enabled
+[2019.11.13-23.18.59:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.13-23.18.59:825][  0]LogInit: Transaction tracking system initialized
+[2019.11.13-23.18.59:848][  0]BlueprintLog: New page: Editor Load
+[2019.11.13-23.18.59:929][  0]LocalizationService: Localization service is disabled
+[2019.11.13-23.19.00:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/GB/Content/' took 0.02s
+[2019.11.13-23.19.00:231][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.13-23.19.00:231][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.13-23.19.00:316][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.11.13-23.19.00:317][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2019.11.13-23.19.00:317][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2019.11.13-23.19.00:405][  0]SourceControl: Source control is disabled
+[2019.11.13-23.19.00:405][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-23.19.00:406][  0]LightingResults: New page: Lighting Build
+[2019.11.13-23.19.00:408][  0]MapCheck: New page: Map Check
+[2019.11.13-23.19.00:408][  0]LightingResults: New page: Lighting Build
+[2019.11.13-23.19.00:430][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.11.13-23.19.00:523][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.13-23.19.00:527][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-23.19.00:551][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.13-23.19.00:551][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-23.19.00:551][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2019.11.13-23.19.00:551][  0]LogFileHelpers: Loading map 'Template_Default' took 0.146
+[2019.11.13-23.19.00:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-23.19.00:712][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-23.19.00:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-23.19.00:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-23.19.00:745][  0]LogCollectionManager: Loaded 0 collections in 0.001438 seconds
+[2019.11.13-23.19.00:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/GB/Saved/Collections/' took 0.01s
+[2019.11.13-23.19.00:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/GB/Content/Developers/Alexandre/Collections/' took 0.01s
+[2019.11.13-23.19.00:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Desktop/GB/Content/Collections/' took 0.00s
+[2019.11.13-23.19.00:795][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.13-23.19.00:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2733 classes and 661 folders.
+[2019.11.13-23.19.00:824][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.13-23.19.00:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:978][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.00:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-23.19.01:250][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.13-23.19.01:272][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.13-23.19.01:460][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.13-23.19.01:463][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.13-23.19.01:475][  0]LogSlate: Took 0.005855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.13-23.19.01:606][  0]LogRenderer: Reallocating scene render targets to support 1168x580 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-23.19.01:738][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.13-23.19.01:738][  0]LogLoad: (Engine Initialization) Total time: 9.09 seconds
+[2019.11.13-23.19.01:738][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.13-23.19.01:773][  0]LogAssetRegistry: Asset discovery search completed in 5.1670 seconds
+[2019.11.13-23.19.01:775][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.13-23.19.01:775][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.11.13-23.19.01:777][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.13-23.19.01:816][  0]LogSlate: Took 0.006228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-23.19.13:704][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-23.19.31:795][137]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-23.19.31:818][137]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alexandre\Desktop\test.fbx)
+[2019.11.13-23.19.31:865][137]LogFbx: Loading FBX Scene from C:\Users\Alexandre\Desktop\test.fbx
+[2019.11.13-23.19.31:915][137]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-23.20.02:553][137]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.20.02:603][137]LogFbx: 	Total Deformer Count 391754032.
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.02:603][137]LogFbx: 	Total Deformer Count 394081664.
+[2019.11.13-23.20.02:603][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.02:603][137]LogFbx: 	Total Deformer Count 183725528.
+[2019.11.13-23.20.02:603][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.20.02:603][137]LogFbx: 	Total Deformer Count 391754032.
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.02:603][137]LogFbx: 	Total Deformer Count 394080704.
+[2019.11.13-23.20.02:603][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.02:603][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.02:603][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.02:603][137]LogFbx: =================================================
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.02:604][137]LogFbx: 	Total Deformer Count 183725584.
+[2019.11.13-23.20.02:604][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.02:604][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.02:604][137]LogFbx: =================================================
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.02:604][137]LogFbx: 	Total Deformer Count 394078464.
+[2019.11.13-23.20.02:604][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.02:604][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.02:604][137]LogFbx: =================================================
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.02:604][137]LogFbx: 	Total Deformer Count 183725584.
+[2019.11.13-23.20.02:604][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.02:604][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.02:604][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.02:736][137]LogFbx: Triangulating skeletal mesh Cube
+[2019.11.13-23.20.02:966][137]LogFbx: Triangulating skeletal mesh Sphere.001
+[2019.11.13-23.20.03:001][137]LogFbx: Triangulating skeletal mesh Sphere
+[2019.11.13-23.20.03:051][137]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 2
+[2019.11.13-23.20.03:192][137]LogSkeletalMesh: Section 0: 3106 vertices, 1 active bones
+[2019.11.13-23.20.03:192][137]LogSkeletalMesh: Section 1: 962 vertices, 2 active bones
+[2019.11.13-23.20.03:192][137]LogSkeletalMesh: Section 2: 66 vertices, 2 active bones
+[2019.11.13-23.20.03:193][137]LogSkeletalMesh: Section 0: Material=0, 4884 triangles
+[2019.11.13-23.20.03:193][137]LogSkeletalMesh: Section 1: Material=1, 1856 triangles
+[2019.11.13-23.20.03:193][137]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2019.11.13-23.20.03:195][137]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.20.03:201][137]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.20.03:204][137]LogLinker: Can't find file '/Game/test_Skeleton'
+[2019.11.13-23.20.03:204][137]LogLinker: Can't find file '/Game/test_Skeleton'
+[2019.11.13-23.20.03:206][137]LogLinker: Can't find file '/Game/test_PhysicsAsset'
+[2019.11.13-23.20.03:206][137]LogLinker: Can't find file '/Game/test_PhysicsAsset'
+[2019.11.13-23.20.03:213][137]LogMaterial: Warning: Material /Game/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.13-23.20.03:216][137]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.13-23.20.03:288][137]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.13-23.20.03:288][137]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.13-23.20.03:288][137]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.13-23.20.03:288][137]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.13-23.20.03:289][137]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.11.13-23.20.03:297][137]LogFbx: =================================================
+[2019.11.13-23.20.03:297][137]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.20.03:297][137]LogFbx: 	Total Deformer Count 476524992.
+[2019.11.13-23.20.03:297][137]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.20.03:297][137]LogFbx: =================================================
+[2019.11.13-23.20.03:297][137]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.20.03:297][137]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.20.03:297][137]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.20.03:297][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 383655744.
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 453315176.
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 476524992.
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 383661312.
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 453315008.
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.03:298][137]LogFbx: =================================================
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node START [Sphere.001] 
+[2019.11.13-23.20.03:298][137]LogFbx: 	Total Deformer Count 383652416.
+[2019.11.13-23.20.03:298][137]LogFbx: 	Attribute (Sphere.000) Type (4).
+[2019.11.13-23.20.03:298][137]LogFbx: 		[Node Attribute Child 1] Sphere.001 (Type Mesh).
+[2019.11.13-23.20.03:298][137]LogFbx: Dumping Node END [Sphere.001]
+[2019.11.13-23.20.03:299][137]LogFbx: =================================================
+[2019.11.13-23.20.03:299][137]LogFbx: Dumping Node START [Sphere] 
+[2019.11.13-23.20.03:299][137]LogFbx: 	Total Deformer Count 453315008.
+[2019.11.13-23.20.03:299][137]LogFbx: 	Attribute (Sphere.003) Type (4).
+[2019.11.13-23.20.03:299][137]LogFbx: 		[Node Attribute Child 1] Sphere (Type Mesh).
+[2019.11.13-23.20.03:299][137]LogFbx: Dumping Node END [Sphere]
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(0) Cube
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(1) Sphere_001
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(2) Sphere
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(0) Cube
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(1) Sphere_001
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(2) Sphere
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(0) Cube
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(1) Sphere_001
+[2019.11.13-23.20.03:299][137]LogFbx: SortedLinks :(2) Sphere
+[2019.11.13-23.20.03:299][137]LogFbx: Parsing AnimStack Cube|ArmatureAction
+[2019.11.13-23.20.03:300][137]LogLinker: Can't find file '/Game/test_Anim_Cube_ArmatureAction'
+[2019.11.13-23.20.03:300][137]LogLinker: Can't find file '/Game/test_Anim_Cube_ArmatureAction'
+[2019.11.13-23.20.03:302][137]LogFbx: Warning: CurveName(Sad) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:302][137]LogFbx: Warning: CurveName(Blink) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:310][137]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/test_Anim_Cube_ArmatureAction.test_Anim_Cube_ArmatureAction
+[2019.11.13-23.20.03:310][137]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.test_Anim_Cube_ArmatureAction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.13-23.20.03:314][137]LogFbx: Parsing AnimStack Cube|CubeAction
+[2019.11.13-23.20.03:315][137]LogLinker: Can't find file '/Game/test_Anim_Cube_CubeAction'
+[2019.11.13-23.20.03:315][137]LogLinker: Can't find file '/Game/test_Anim_Cube_CubeAction'
+[2019.11.13-23.20.03:315][137]LogFbx: Warning: CurveName(Sad) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:315][137]LogFbx: Warning: CurveName(Blink) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:320][137]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/test_Anim_Cube_CubeAction.test_Anim_Cube_CubeAction
+[2019.11.13-23.20.03:320][137]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.test_Anim_Cube_CubeAction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.13-23.20.03:322][137]LogFbx: Parsing AnimStack Cube|KeyAction.001
+[2019.11.13-23.20.03:323][137]LogLinker: Can't find file '/Game/test_Anim_Cube_KeyAction_001'
+[2019.11.13-23.20.03:323][137]LogLinker: Can't find file '/Game/test_Anim_Cube_KeyAction_001'
+[2019.11.13-23.20.03:323][137]LogFbx: Warning: CurveName(Sad) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:323][137]LogFbx: Warning: CurveName(Blink) is skipped because it only contains invalid values.
+[2019.11.13-23.20.03:327][137]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/test_Anim_Cube_KeyAction_001.test_Anim_Cube_KeyAction_001
+[2019.11.13-23.20.03:327][137]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.test_Anim_Cube_KeyAction_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.13-23.20.03:412][137]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.20.03:419][137]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.20.03:422][137]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.20.03:430][137]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.20.03:438][137]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-23.20.03:438][137]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.11.13-23.20.03:438][137]FBXImport: Warning: Mesh 'Sphere.001' has no UV set. Creating a default set. 
+[2019.11.13-23.20.03:438][137]FBXImport: Warning: Mesh 'Sphere' has no UV set. Creating a default set. 
+[2019.11.13-23.20.03:447][137]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.20.03:457][137]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.20.04:909][255]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-23.20.04:913][255]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-23.20.06:409][364]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.13-23.20.06:640][384]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.13-23.20.08:934][577]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/test.test
+[2019.11.13-23.20.08:950][577]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.11.13-23.20.09:266][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.13-23.20.09:276][577]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.11.13-23.20.09:333][577]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.13-23.20.09:657][577]LogSlate: Took 0.005587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.13-23.20.09:696][578]LogRenderer: Reallocating scene render targets to support 1168x588 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-23.20.11:801][758]LogMaterial: Warning: Material /Game/Material.Material needed to have new flag set bUsedWithMorphTargets !
+[2019.11.13-23.20.11:806][758]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.13-23.20.18:357][132]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/test_Skeleton.test_Skeleton
+[2019.11.13-23.20.18:375][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.13-23.20.18:395][132]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.13-23.21.10:055][  9]LogSlate: Window 'test_Skeleton' being destroyed
+[2019.11.13-23.21.10:059][  9]LogSlate: Window 'test_Skeleton' being destroyed
+[2019.11.13-23.21.18:116][860]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2019.11.13-23.21.18:550][860]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.11.13-23.21.19:596][860]LogSlate: Took 0.005713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.13-23.21.25:253][359]LogSlate: Window 'NewBlueprint' being destroyed
+[2019.11.13-23.21.25:257][359]LogSlate: Window 'NewBlueprint' being destroyed
+[2019.11.13-23.21.39:379][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.11.13-23.21.43:371][971]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.13-23.21.43:375][971]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/c_Cube.c_Cube
+	Asset Name: /Game/c_Sphere.c_Sphere
+	Asset Name: /Game/c_Sphere_001.c_Sphere_001
+	Asset Name: /Game/Material.Material
+	Asset Name: /Game/Material_001.Material_001
+	Asset Name: /Game/Material_002.Material_002
+	Asset Name: /Game/NewBlueprint.NewBlueprint
+	Asset Name: /Game/test.test
+	Asset Name: /Game/test_Anim_Cube_ArmatureAction.test_Anim_Cube_ArmatureAction
+	Asset Name: /Game/test_Anim_Cube_CubeAction.test_Anim_Cube_CubeAction
+[2019.11.13-23.21.44:050][971]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.21.44:057][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.21.44:059][971]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.21.44:067][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.21.44:069][971]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.21.44:076][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.21.44:079][971]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.21.44:086][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.21.44:092][971]LogSkeletalMesh: Building Skeletal Mesh test...
+[2019.11.13-23.21.44:100][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/test.test
+[2019.11.13-23.21.44:117][971]LogSkeletalMesh: Building Skeletal Mesh Samba_Dancing__1_...
+[2019.11.13-23.21.44:126][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+[2019.11.13-23.21.44:129][971]LogSkeletalMesh: Building Skeletal Mesh Samba_Dancing__1_...
+[2019.11.13-23.21.44:136][971]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+[2019.11.13-23.21.44:184][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.13-23.21.46:499][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.13-23.21.46:520][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.13-23.21.46:548][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.13-23.21.46:571][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.13-23.21.46:598][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.13-23.21.46:624][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.13-23.21.46:650][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.13-23.21.46:679][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.11.13-23.21.46:704][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.13-23.21.53:944][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/raccoon" FILE="../../../../../../Users/Alexandre/Desktop/GB/Content/raccoon.uasset" SILENT=true
+[2019.11.13-23.21.53:967][799]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/GB/Saved/raccoon9529FCC445D46A4285B4AEA8481552EC.tmp' to '../../../../../../Users/Alexandre/Desktop/GB/Content/raccoon.uasset'
+[2019.11.13-23.21.54:093][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.11.13-23.21.54:121][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.11.13-23.21.54:142][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.13-23.21.54:168][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/raccoon_Mat" FILE="../../../../../../Users/Alexandre/Desktop/GB/Content/NewFolder/raccoon_Mat.uasset" SILENT=true
+[2019.11.13-23.21.54:191][799]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/GB/Saved/raccoon_Mat2AD49DF3403AAC1C4A1CDB9B5939BD09.tmp' to '../../../../../../Users/Alexandre/Desktop/GB/Content/NewFolder/raccoon_Mat.uasset'
+[2019.11.13-23.21.56:590][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/raccoon_Mat" FILE="../../../../../../Users/Alexandre/Desktop/GB/Content/raccoon_Mat.uasset" SILENT=true
+[2019.11.13-23.21.56:607][ 64]LogSavePackage: Moving '../../../../../../Users/Alexandre/Desktop/GB/Saved/raccoon_Mat42AA33EA4AA985AF5EF868820B0F9AED.tmp' to '../../../../../../Users/Alexandre/Desktop/GB/Content/raccoon_Mat.uasset'
+[2019.11.13-23.21.56:731][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.13-23.21.56:758][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.13-23.21.56:779][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.13-23.22.00:558][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.13-23.22.02:361][501]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.13-23.22.02:365][501]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/NewFolder/Samba_Dancing__1__Skeleton.Samba_Dancing__1__Skeleton
+	Asset Name: /Game/NewFolder/Material.Material
+	Asset Name: /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+	Asset Name: /Game/NewFolder/Samba_Dancing__1__Anim.Samba_Dancing__1__Anim
+	Asset Name: /Game/NewFolder/Samba_Dancing__1__PhysicsAsset.Samba_Dancing__1__PhysicsAsset
+[2019.11.13-23.22.02:593][501]LogSkeletalMesh: Building Skeletal Mesh Samba_Dancing__1_...
+[2019.11.13-23.22.02:600][501]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+[2019.11.13-23.22.02:601][501]LogSkeletalMesh: Building Skeletal Mesh Samba_Dancing__1_...
+[2019.11.13-23.22.02:608][501]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+[2019.11.13-23.22.02:611][501]LogSkeletalMesh: Building Skeletal Mesh Samba_Dancing__1_...
+[2019.11.13-23.22.02:617][501]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/NewFolder/Samba_Dancing__1_.Samba_Dancing__1_
+[2019.11.13-23.22.03:520][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.13-23.22.03:545][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.13-23.22.03:571][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.13-23.22.03:597][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.13-23.22.03:630][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.11.13-23.22.03:657][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.13-23.22.03:682][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.13-23.22.18:166][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.13-23.22.45:935][218]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.13-23.22.46:048][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.13-23.22.46:074][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.13-23.22.46:101][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.13-23.22.46:127][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.13-23.22.46:152][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.13-23.22.46:181][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.13-23.22.46:206][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.13-23.22.46:232][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.13-23.22.46:258][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.13-23.22.46:286][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.11.13-23.22.46:314][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.13-23.25.33:747][525]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alexandre\Desktop\Character.fbx)
+[2019.11.13-23.25.33:764][525]LogFbx: Loading FBX Scene from C:\Users\Alexandre\Desktop\Character.fbx
+[2019.11.13-23.25.33:851][525]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-23.25.42:019][525]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.13-23.25.42:057][525]LogFbx: =================================================
+[2019.11.13-23.25.42:057][525]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.25.42:057][525]LogFbx: 	Total Deformer Count 818291680.
+[2019.11.13-23.25.42:057][525]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.25.42:057][525]LogFbx: =================================================
+[2019.11.13-23.25.42:057][525]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.11.13-23.25.42:057][525]LogFbx: =================================================
+[2019.11.13-23.25.42:057][525]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.25.42:058][525]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.25.42:058][525]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.25.42:059][525]LogFbx: =================================================
+[2019.11.13-23.25.42:059][525]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.25.42:059][525]LogFbx: 	Total Deformer Count 818291680.
+[2019.11.13-23.25.42:059][525]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.25.42:059][525]LogFbx: =================================================
+[2019.11.13-23.25.42:059][525]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.11.13-23.25.42:059][525]LogFbx: =================================================
+[2019.11.13-23.25.42:059][525]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.25.42:059][525]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.25.42:059][525]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.25.42:059][525]LogFbx: Valid bind pose for Pose (BindPose) - Cube
+[2019.11.13-23.25.42:062][525]LogMaterial: Warning: Material /Game/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.13-23.25.42:065][525]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.13-23.25.42:096][525]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\Alexandre\Downloads\raccoon.png
+[2019.11.13-23.25.42:100][525]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.13-23.25.42:131][525]LogFbx: Triangulating skeletal mesh Cube
+[2019.11.13-23.25.42:379][525]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.13-23.25.42:379][525]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.13-23.25.42:379][525]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.13-23.25.42:379][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.13-23.25.42:379][525]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2019.11.13-23.25.42:528][525]LogSkeletalMesh: Section 0: 3106 vertices, 46 active bones
+[2019.11.13-23.25.42:529][525]LogSkeletalMesh: Section 0: Material=0, 4884 triangles
+[2019.11.13-23.25.42:539][525]LogSkeletalMesh: Building Skeletal Mesh Character...
+[2019.11.13-23.25.42:552][525]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Character.Character
+[2019.11.13-23.25.42:555][525]LogLinker: Can't find file '/Game/Character_Skeleton'
+[2019.11.13-23.25.42:555][525]LogLinker: Can't find file '/Game/Character_Skeleton'
+[2019.11.13-23.25.42:559][525]LogLinker: Can't find file '/Game/Character_PhysicsAsset'
+[2019.11.13-23.25.42:559][525]LogLinker: Can't find file '/Game/Character_PhysicsAsset'
+[2019.11.13-23.25.42:585][525]LogFbx: =================================================
+[2019.11.13-23.25.42:585][525]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.25.42:585][525]LogFbx: 	Total Deformer Count -1952028912.
+[2019.11.13-23.25.42:585][525]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.25.42:585][525]LogFbx: =================================================
+[2019.11.13-23.25.42:585][525]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.11.13-23.25.42:585][525]LogFbx: =================================================
+[2019.11.13-23.25.42:585][525]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.25.42:585][525]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.25.42:585][525]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.25.42:587][525]LogFbx: =================================================
+[2019.11.13-23.25.42:588][525]LogFbx: Dumping Node START [Cube] 
+[2019.11.13-23.25.42:588][525]LogFbx: 	Total Deformer Count -1952028912.
+[2019.11.13-23.25.42:588][525]LogFbx: 		[Node 1] Cube.001 (Type BlendShape).
+[2019.11.13-23.25.42:588][525]LogFbx: =================================================
+[2019.11.13-23.25.42:588][525]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.11.13-23.25.42:588][525]LogFbx: =================================================
+[2019.11.13-23.25.42:588][525]LogFbx: 	Attribute (Cube.001) Type (4).
+[2019.11.13-23.25.42:588][525]LogFbx: 		[Node Attribute Child 1] Cube (Type Mesh).
+[2019.11.13-23.25.42:588][525]LogFbx: Dumping Node END [Cube]
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(0) Hips
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(1) Spine
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(2) Spine1
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(3) Spine2
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(4) Neck
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(5) Head
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.13-23.25.42:588][525]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(27) RightShoulder
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(28) RightArm
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(29) RightForeArm
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(30) RightHand
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(31) RightHandThumb1
+[2019.11.13-23.25.42:589][525]LogFbx: SortedLinks :(32) RightHandThumb2
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(33) RightHandThumb3
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(34) RightHandThumb4
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(38) RightHandIndex4
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(43) RightHandRing1
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(44) RightHandRing2
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(45) RightHandRing3
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(46) RightHandRing4
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(47) LeftUpLeg
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(48) LeftLeg
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(49) LeftFoot
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(50) LeftToeBase
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(51) LeftToe_End
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(52) RightUpLeg
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(53) RightLeg
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(54) RightFoot
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(55) RightToeBase
+[2019.11.13-23.25.42:590][525]LogFbx: SortedLinks :(56) RightToe_End
+[2019.11.13-23.25.42:591][525]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.13-23.25.42:592][525]LogLinker: Can't find file '/Game/Character_Anim'
+[2019.11.13-23.25.42:592][525]LogLinker: Can't find file '/Game/Character_Anim'
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(Smile_L) is skipped because it only contains invalid values.
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(MouthClosed) is skipped because it only contains invalid values.
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(Smile_R) is skipped because it only contains invalid values.
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(Sad) is skipped because it only contains invalid values.
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(Blink) is skipped because it only contains invalid values.
+[2019.11.13-23.25.42:593][525]LogFbx: Warning: CurveName(Blink1) is skipped because it only contains invalid values.
+[2019.11.13-23.25.44:648][525]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.13-23.25.44:878][525]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.13-23.25.47:495][525]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character_Anim.Character_Anim
+[2019.11.13-23.25.47:498][525]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Character_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.13-23.25.47:580][525]LogSkeletalMesh: Building Skeletal Mesh Character...
+[2019.11.13-23.25.47:585][525]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Character.Character
+[2019.11.13-23.25.47:588][525]LogSkeletalMesh: Building Skeletal Mesh Character...
+[2019.11.13-23.25.47:593][525]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Character.Character
+[2019.11.13-23.25.47:606][525]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.13-23.25.47:615][525]LogSkeletalMesh: Building Skeletal Mesh Character...
+[2019.11.13-23.25.47:622][525]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Character.Character
+[2019.11.13-23.25.49:220][710]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-23.25.49:224][710]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-23.25.54:331][288]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Character.Character
+[2019.11.13-23.25.54:339][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.13-23.25.54:358][288]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.13-23.25.57:904][598]LogMaterial: Warning: Material /Game/Material.Material needed to have new flag set bUsedWithMorphTargets !
+[2019.11.13-23.25.57:907][598]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.11.13-23.26.01:570][823]Cmd: TRANSACTION UNDO
+[2019.11.13-23.26.01:570][823]LogEditorTransaction: Undo Edit Import Morph Targets
+[2019.11.13-23.26.01:707][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.13-23.26.22:177][747]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.13-23.26.42:081][ 98]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2019.11.13-23.26.45:148][362]LogSlate: Window 'Character' being destroyed
+[2019.11.13-23.26.45:152][362]LogSlate: Window 'Character' being destroyed
+[2019.11.13-23.26.47:756][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.13-23.26.49:310][633]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.13-23.26.49:362][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.11.13-23.26.52:358][869]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.13-23.27.03:594][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character_bp" FILE="../../../../../../Users/Alexandre/Desktop/GB/Content/Character_bp.uasset" SILENT=true
+[2019.11.13-23.27.03:596][198]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.13-23.27.04:254][198]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.658 s
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: 
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: Found circular redirect from /Game/Character_BP.Character_BP_C to /Game/Character_BP.Character_BP_C! Returning None instead
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: Stack: 
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c872690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c544d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7cc2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7d74c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c579017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c5106c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7d7113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c68533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c797d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:254][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7980a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c68736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c685412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c797d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c73dced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7980a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c68736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c73e3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c73c9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c73c6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaf85b0125 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaf85afc5c UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c77c315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c79b619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c783f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0acd9ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0acda757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0ad0fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0ad0c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0b49f0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0b04da24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0b04c599 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0b0600b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaeba9b1b3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaeba5ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaebaaa9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaea8f2fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaea956f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaea99dda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaea8d0e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffaea8b3d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c1eb61a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c1bee59 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c21c69d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c21d93d UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c1500bd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0bfa1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0c008dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb0bfff1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb39f5b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb39f4ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb39f5d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb39f4c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb528263ed USER32.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb52825de2 USER32.dll!UnknownFunction []
+[2019.11.13-23.27.04:255][198]LogOutputDevice: Error: [Callstack] 0x00007ffb39f5e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ff7370c5d3e UE4Editor.exe!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ff7370d554c UE4Editor.exe!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ff7370d55ca UE4Editor.exe!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ff7370e316c UE4Editor.exe!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ff7370e5b8e UE4Editor.exe!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ffb52767bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: [Callstack] 0x00007ffb5328ced1 ntdll.dll!UnknownFunction []
+[2019.11.13-23.27.04:256][198]LogOutputDevice: Error: 
+[2019.11.13-23.27.04:260][198]LogStats:                SubmitErrorReport -  0.000 s

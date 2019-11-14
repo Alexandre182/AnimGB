@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GB.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F8A9DC6C-20D5-4995-B523-3FED532DF03F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GB.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GBEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D5A8BB19-845C-41C9-B77F-600DE968D876}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GB">
+      <UniqueIdentifier>{E1744248-A4F4-4484-AF1C-C76948E6372C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GB\GB.Build.cs">
+      <Filter>Source\GB</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GB\GB.cpp">
+      <Filter>Source\GB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GB\GB.h">
+      <Filter>Source\GB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GB\GBGameModeBase.cpp">
+      <Filter>Source\GB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GB\GBGameModeBase.h">
+      <Filter>Source\GB</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
