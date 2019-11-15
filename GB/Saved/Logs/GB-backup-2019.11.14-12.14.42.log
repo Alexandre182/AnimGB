@@ -1,0 +1,1725 @@
+﻿Log file open, 11/14/19 08:44:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GB
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283328
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:307][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:310][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:310][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-11.44.29:310][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-11.44.29:310][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:310][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-11.44.29:310][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:310][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-11.44.29:310][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-11.44.29:311][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-11.44.29:312][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-11.44.29:312][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.14-11.44.29:332][  0]LogHAL: Display: Platform has ~ 16 GB [17063231488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.14-11.44.29:332][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.14-11.44.29:332][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-11.44.29:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.14-11.44.29:333][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Config/Windows/Engine.ini]
+[2019.11.14-11.44.29:334][  0]LogInit: Computer: DESKTOP-2FLK6S5
+[2019.11.14-11.44.29:334][  0]LogInit: User: Alexandre
+[2019.11.14-11.44.29:334][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.14-11.44.29:334][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2019.11.14-11.44.29:334][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.14-11.44.29:334][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.14-11.44.29:334][  0]LogMemory: Process Physical Memory: 95.93 MB used, 95.93 MB peak
+[2019.11.14-11.44.29:334][  0]LogMemory: Process Virtual Memory: 90.38 MB used, 90.38 MB peak
+[2019.11.14-11.44.29:334][  0]LogMemory: Physical Memory: 4746.01 MB used,  11526.76 MB free, 16272.77 MB total
+[2019.11.14-11.44.29:334][  0]LogMemory: Virtual Memory: 4656.91 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.14-11.44.29:359][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.14-11.44.29:359][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.11.14-11.44.29:558][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.14-11.44.29:598][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.14-11.44.29:598][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.14-11.44.29:808][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-11.44.29:808][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.14-11.44.29:885][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.14-11.44.29:885][  0]LogD3D11RHI:       4018/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.14-11.44.29:897][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.14-11.44.29:897][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.14-11.44.29:899][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.14-11.44.29:899][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.14-11.44.29:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.14-11.44.29:930][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.14-11.44.29:930][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.14-11.44.29:930][  0]LogWindows: EnumDisplayDevices:
+[2019.11.14-11.44.29:930][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.11.14-11.44.29:930][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.14-11.44.29:931][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.14-11.44.29:931][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.14-11.44.29:931][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.14-11.44.29:931][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.14-11.44.29:931][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.14-11.44.29:932][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.14-11.44.29:932][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.14-11.44.29:932][  0]LogD3D11RHI:   Driver Version: 441.08 (internal:26.21.14.4108, unified:441.08)
+[2019.11.14-11.44.29:932][  0]LogD3D11RHI:      Driver Date: 10-22-2019
+[2019.11.14-11.44.29:932][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.11.14-11.44.29:979][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.14-11.44.29:988][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-11.44.29:988][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-11.44.29:988][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-11.44.29:997][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.14-11.44.30:227][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.14-11.44.30:241][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.14-11.44.30:255][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.14-11.44.30:269][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.14-11.44.30:283][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.14-11.44.30:297][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.14-11.44.30:311][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.14-11.44.30:323][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.14-11.44.30:331][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.14-11.44.30:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.14-11.44.30:418][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.14-11.44.30:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.14-11.44.30:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.14-11.44.30:494][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.14-11.44.30:494][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.14-11.44.30:507][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.14-11.44.30:519][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.14-11.44.30:530][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.14-11.44.30:544][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.14-11.44.30:589][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.14-11.44.30:589][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.14-11.44.30:589][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.14-11.44.30:598][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.14-11.44.30:649][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/Alexandre/Documents/AnimGB/GB/Intermediate/Shaders/WorkingDirectory/13192/).
+[2019.11.14-11.44.30:649][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexandre/AppData/Local/Temp/UnrealShaderWorkingDir/ED02E8E64873514BD6391DB76494EBF4/'.
+[2019.11.14-11.44.30:651][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.14-11.44.30:651][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.14-11.44.30:651][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.14-11.44.31:216][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.14-11.44.31:274][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-11.44.31:274][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.14-11.44.31:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexandre/Documents/AnimGB/GB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.14-11.44.31:274][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.14-11.44.31:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexandre/Documents/AnimGB/GB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-11.44.31:275][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.14-11.44.31:287][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.14-11.44.31:287][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-11.44.31:287][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.14-11.44.31:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexandre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.14-11.44.31:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.14-11.44.31:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.14-11.44.31:324][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.14-11.44.31:325][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.14-11.44.31:326][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.14-11.44.31:413][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.11.14-11.44.31:737][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-11.44.31:875][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.14-11.44.31:875][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.14-11.44.31:875][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.14-11.44.31:875][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.14-11.44.31:875][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.14-11.44.31:887][  0]LogNetVersion: GB 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1782906311)
+[2019.11.14-11.44.32:319][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051790 seconds
+[2019.11.14-11.44.32:325][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.14-11.44.32:325][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.14-11.44.32:325][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.14-11.44.33:148][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.14-11.44.33:162][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.14-11.44.33:285][  0]SourceControl: Source control is disabled
+[2019.11.14-11.44.33:285][  0]SourceControl: Source control is disabled
+[2019.11.14-11.44.33:287][  0]SourceControl: Source control is disabled
+[2019.11.14-11.44.33:287][  0]SourceControl: Source control is disabled
+[2019.11.14-11.44.33:362][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.14-11.44.33:430][  0]LogOcInput: OculusInput pre-init called
+[2019.11.14-11.44.34:111][  0]LogEngine: Initializing Engine...
+[2019.11.14-11.44.34:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-11.44.34:113][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.14-11.44.34:333][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.14-11.44.34:349][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-11.44.34:368][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-11.44.34:401][  0]LogInit: FAudioDevice initialized.
+[2019.11.14-11.44.34:401][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.14-11.44.34:486][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Alexandre/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-11.44.34:500][  0]LogInit: Texture streaming: Enabled
+[2019.11.14-11.44.34:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.14-11.44.34:540][  0]LogInit: Transaction tracking system initialized
+[2019.11.14-11.44.34:565][  0]BlueprintLog: New page: Editor Load
+[2019.11.14-11.44.34:651][  0]LocalizationService: Localization service is disabled
+[2019.11.14-11.44.35:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/AnimGB/GB/Content/' took 0.02s
+[2019.11.14-11.44.35:422][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.14-11.44.35:422][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.14-11.44.35:595][  0]SourceControl: Source control is disabled
+[2019.11.14-11.44.35:595][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-11.44.35:595][  0]LightingResults: New page: Lighting Build
+[2019.11.14-11.44.35:598][  0]MapCheck: New page: Map Check
+[2019.11.14-11.44.35:598][  0]LightingResults: New page: Lighting Build
+[2019.11.14-11.44.35:629][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.14-11.44.35:714][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.14-11.44.35:720][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-11.44.35:745][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.14-11.44.35:746][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-11.44.35:746][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2019.11.14-11.44.35:746][  0]LogFileHelpers: Loading map 'Template_Default' took 0.151
+[2019.11.14-11.44.35:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.44.35:916][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.44.35:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.44.35:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.44.35:947][  0]LogCollectionManager: Loaded 0 collections in 0.001628 seconds
+[2019.11.14-11.44.35:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/AnimGB/GB/Saved/Collections/' took 0.01s
+[2019.11.14-11.44.35:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/AnimGB/GB/Content/Developers/Alexandre/Collections/' took 0.00s
+[2019.11.14-11.44.35:981][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexandre/Documents/AnimGB/GB/Content/Collections/' took 0.00s
+[2019.11.14-11.44.35:981][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.14-11.44.35:993][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2733 classes and 661 folders.
+[2019.11.14-11.44.36:007][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.14-11.44.36:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:232][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-11.44.36:412][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.14-11.44.36:432][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.14-11.44.36:595][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.14-11.44.36:598][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.14-11.44.36:614][  0]LogSlate: Took 0.006223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.14-11.44.36:765][  0]LogRenderer: Reallocating scene render targets to support 1148x600 Format 9 NumSamples 1 (Frame:1).
+[2019.11.14-11.44.36:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.14-11.44.36:916][  0]LogLoad: (Engine Initialization) Total time: 9.41 seconds
+[2019.11.14-11.44.36:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.14-11.44.36:935][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-11.44.36:962][  0]LogAssetRegistry: Asset discovery search completed in 5.5709 seconds
+[2019.11.14-11.44.36:963][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.14-11.44.36:963][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.11.14-11.44.36:965][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.11.14-11.44.37:004][  0]LogSlate: Took 0.005872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-11.44.41:209][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-11.44.41:394][257]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-11.44.41:445][257]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-11.44.41:445][257]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-11.44.41:446][257]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-11.44.41:446][257]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-11.44.41:446][257]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [0013.94] Compile of NewAnimBlueprint successful, but with 4 Warning(s) [in 13 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-11.44.41:622][257]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-11.44.41:627][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:630][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:631][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:640][257]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2019.11.14-11.44.41:668][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.14-11.44.41:669][257]Cmd: MAP LOAD FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-11.44.41:669][257]LightingResults: New page: Lighting Build
+[2019.11.14-11.44.41:670][257]LoadErrors: New page: Loading map: Untitled.umap
+[2019.11.14-11.44.41:671][257]MapCheck: New page: Map Check
+[2019.11.14-11.44.41:671][257]LightingResults: New page: Lighting Build
+[2019.11.14-11.44.41:698][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.14-11.44.41:699][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:703][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:705][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.41:763][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-11.44.41:788][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.14-11.44.41:809][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-11.44.41:810][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.11.14-11.44.41:810][257]LogFileHelpers: Loading map 'Untitled' took 0.142
+[2019.11.14-11.44.41:951][260]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.44.42:004][262]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.45.26:380][924]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-11.45.26:392][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-11.45.26:394][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-11.45.26:395][924]PIE: New page: PIE session: Untitled (Nov 14, 2019, 6:45:26 AM)
+[2019.11.14-11.45.26:409][924]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.11.14-11.45.26:412][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2019.11.14-11.45.26:412][924]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-11.45.26:412][924]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.11.14-11.45.26:412][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003612s)
+[2019.11.14-11.45.26:435][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.14-11.45.26:439][924]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-11.45.26:467][924]LogInit: FAudioDevice initialized.
+[2019.11.14-11.45.26:509][924]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-11.45.26:511][924]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.45.26:511][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-11.45.26:512][924]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2019.11.14-08.45.26
+[2019.11.14-11.45.26:513][924]LogWorld: Bringing up level for play took: 0.002267
+[2019.11.14-11.45.26:536][924]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.14-11.45.26:537][924]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.553
+[2019.11.14-11.45.26:537][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-11.45.45:243][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-11.45.45:243][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.45.45:271][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-11.45.45:271][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-11.45.45:304][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-11.45.45:307][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.14-11.45.45:314][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-11.45.45:348][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.14-11.45.47:118][144]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-11.45.47:122][144]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-11.45.55:052][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-11.45.57:629][772]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Character.Character
+[2019.11.14-11.45.57:647][772]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.14-11.45.57:939][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-11.45.57:948][772]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.11.14-11.45.58:012][772]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-11.45.58:332][772]LogSlate: Took 0.005958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.14-11.45.58:377][773]LogRenderer: Reallocating scene render targets to support 1148x840 Format 9 NumSamples 1 (Frame:1).
+[2019.11.14-11.46.59:223][317]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character_Anim.Character_Anim
+[2019.11.14-11.46.59:249][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-11.46.59:279][317]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-11.46.59:605][317]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-11.48.28:367][469]LogSlate: Window 'Character_Anim' being destroyed
+[2019.11.14-11.48.28:374][469]LogSlate: Window 'Character_Anim' being destroyed
+[2019.11.14-11.59.31:447][749]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alexandre\Downloads\Waving.fbx)
+[2019.11.14-11.59.31:486][749]LogFbx: Loading FBX Scene from C:\Users\Alexandre\Downloads\Waving.fbx
+[2019.11.14-11.59.31:513][749]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.14-11.59.34:818][749]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(0) Hips
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(1) Spine
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(2) Spine1
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(3) Spine2
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(4) Neck
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(5) Head
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(27) RightShoulder
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(28) RightArm
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(29) RightForeArm
+[2019.11.14-11.59.34:861][749]LogFbx: SortedLinks :(30) RightHand
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(31) RightHandThumb1
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(32) RightHandThumb2
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(33) RightHandThumb3
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(34) RightHandThumb4
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(38) RightHandIndex4
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(43) RightHandRing1
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(44) RightHandRing2
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(45) RightHandRing3
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(46) RightHandRing4
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(47) LeftUpLeg
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(48) LeftLeg
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(49) LeftFoot
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(50) LeftToeBase
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(51) LeftToe_End
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(52) RightUpLeg
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(53) RightLeg
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(54) RightFoot
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(55) RightToeBase
+[2019.11.14-11.59.34:862][749]LogFbx: SortedLinks :(56) RightToe_End
+[2019.11.14-11.59.34:862][749]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.14-11.59.34:864][749]LogLinker: Can't find file '/Game/Waving'
+[2019.11.14-11.59.34:864][749]LogLinker: Can't find file '/Game/Waving'
+[2019.11.14-11.59.35:105][749]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Waving.Waving
+[2019.11.14-11.59.35:105][749]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Waving) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.14-11.59.35:110][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.35:111][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.35:112][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.35:129][749]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Alexandre\Downloads\Mma Kick.fbx)
+[2019.11.14-11.59.35:142][749]LogFbx: Loading FBX Scene from C:\Users\Alexandre\Downloads\Mma Kick.fbx
+[2019.11.14-11.59.35:163][749]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.14-11.59.35:171][749]LogFbx: SortedLinks :(0) Hips
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(1) Spine
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(2) Spine1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(3) Spine2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(4) Neck
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(5) Head
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(27) RightShoulder
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(28) RightArm
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(29) RightForeArm
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(30) RightHand
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(31) RightHandThumb1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(32) RightHandThumb2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(33) RightHandThumb3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(34) RightHandThumb4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(35) RightHandIndex1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(36) RightHandIndex2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(37) RightHandIndex3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(38) RightHandIndex4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(43) RightHandRing1
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(44) RightHandRing2
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(45) RightHandRing3
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(46) RightHandRing4
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(47) LeftUpLeg
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(48) LeftLeg
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(49) LeftFoot
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(50) LeftToeBase
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(51) LeftToe_End
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(52) RightUpLeg
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(53) RightLeg
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(54) RightFoot
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(55) RightToeBase
+[2019.11.14-11.59.35:172][749]LogFbx: SortedLinks :(56) RightToe_End
+[2019.11.14-11.59.35:173][749]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.14-11.59.35:173][749]LogLinker: Can't find file '/Game/Mma_Kick'
+[2019.11.14-11.59.35:173][749]LogLinker: Can't find file '/Game/Mma_Kick'
+[2019.11.14-11.59.35:544][749]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mma_Kick.Mma_Kick
+[2019.11.14-11.59.35:544][749]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Mma_Kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.14-11.59.35:550][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.35:550][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.35:551][749]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-11.59.40:039][ 16]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mma_Kick.Mma_Kick
+[2019.11.14-11.59.40:054][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-11.59.40:071][ 16]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-11.59.40:380][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.00.08:017][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.02.01:322][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.03.10:128][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mma_Kick" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Mma_Kick.uasset" SILENT=true
+[2019.11.14-12.03.10:132][ 82]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mma_Kick.Mma_Kick
+[2019.11.14-12.03.10:133][ 82]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Mma_Kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.14-12.03.10:155][ 82]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/Mma_Kick6FC39C58471BD696ABECA18D84C2FD08.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Mma_Kick.uasset'
+[2019.11.14-12.03.13:508][280]LogSlate: Window 'Mma_Kick' being destroyed
+[2019.11.14-12.03.13:520][280]LogSlate: Window 'Mma_Kick' being destroyed
+[2019.11.14-12.03.21:669][757]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/NewAnimBlueprint.NewAnimBlueprint
+[2019.11.14-12.03.21:693][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-12.03.21:693][757]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-12.03.22:132][757]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.11.14-12.03.22:874][757]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-12.03.23:118][757]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_0
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00E6
+[2019.11.14-12.03.23:135][757]LogSlate: Took 0.006109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.14-12.03.23:252][757]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.04.17:333][936]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.04.17:340][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] SadWalk to Kick  will never be taken, please connect something to  Can Enter Transition
+[2019.11.14-12.04.17:342][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:342][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:343][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:343][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:343][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:343][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.17:469][936]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:469][936]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:469][936]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:469][936]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:516][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.14-12.04.17:524][936]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1190.01] Compile of NewAnimBlueprint successful, but with 7 Warning(s) [in 190 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.04.17:526][936]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:558][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:576][938]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:594][939]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:610][940]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:627][941]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:643][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:660][943]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:677][944]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:694][945]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:712][946]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:728][947]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.17:744][948]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_1
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.18:060][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.04.18:111][965]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprintABBF659844218F1FC192ACB303A7202F.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.04.31:272][742]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.04.31:281][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:281][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:281][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:281][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:282][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:282][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:282][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:282][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.04.31:394][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:394][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:394][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:395][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:395][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:395][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:395][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:395][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:427][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.14-12.04.31:431][742]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1203.92] Compile of NewAnimBlueprint successful, but with 8 Warning(s) [in 159 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.04.31:437][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:437][742]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:468][743]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:468][743]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:486][744]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:486][744]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:504][745]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:504][745]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.04.31:519][746]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_2
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.04.31:952][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.04.31:996][770]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprint78206FEC4BD71065E53D5DA767B81DD7.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.04.33:391][852]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.04.33:399][852]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.04.34:960][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.14-12.04.36:137][932]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-12.04.36:170][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Waving" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Waving.uasset" SILENT=true
+[2019.11.14-12.04.36:189][932]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/WavingEC9E81F34B2878FA5612B89A1605FD89.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Waving.uasset'
+[2019.11.14-12.04.37:157][990]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.04.39:082][105]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-12.04.40:808][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.04.40:963][215]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.14-12.04.40:966][215]Candidate modules for hot reload:
+[2019.11.14-12.04.40:967][215]  GB
+[2019.11.14-12.04.40:967][215]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GB,3783 Win64 Development -TargetType=Editor -Project="C:/Users/Alexandre/Documents/AnimGB/GB/GB.uproject" "C:/Users/Alexandre/Documents/AnimGB/GB/GB.uproject"  -IgnoreJunk]
+[2019.11.14-12.04.40:970][215]Warning: Starting HotReload took  0.0s.
+[2019.11.14-12.04.46:607][549]CompilerResultsLog: New page: Compilation - Nov 14, 2019, 7:04:46 AM
+[2019.11.14-12.04.46:607][549]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Alexandre\Documents\AnimGB).
+[2019.11.14-12.04.46:607][549]CompilerResultsLog: Creating makefile for GBEditor (ini files are newer than makefile)
+[2019.11.14-12.04.46:607][549]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.14-12.04.46:607][549]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.14-12.04.46:607][549]CompilerResultsLog:   [1/3] UE4Editor-GB-3783.lib
+[2019.11.14-12.04.46:607][549]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\AnimGB\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\UE4Editor-GB-3783.lib e objeto C:\Users\Alexandre\Documents\AnimGB\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\UE4Editor-GB-3783.exp
+[2019.11.14-12.04.46:608][549]CompilerResultsLog:   [2/3] UE4Editor-GB-3783.dll
+[2019.11.14-12.04.46:608][549]CompilerResultsLog:      Criando biblioteca C:\Users\Alexandre\Documents\AnimGB\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\UE4Editor-GB-3783.suppressed.lib e objeto C:\Users\Alexandre\Documents\AnimGB\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\UE4Editor-GB-3783.suppressed.exp
+[2019.11.14-12.04.46:608][549]CompilerResultsLog:   [3/3] GBEditor.target
+[2019.11.14-12.04.46:608][549]CompilerResultsLog: Total time in Parallel executor: 1,88 seconds
+[2019.11.14-12.04.46:608][549]CompilerResultsLog: Total execution time: 5,53 seconds
+[2019.11.14-12.04.46:608][549]LogMainFrame: MainFrame: Module compiling took 5.644 seconds
+[2019.11.14-12.04.46:639][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.14-12.04.46:640][549]LogBlueprintActionDatabase: Requesting refresh due to module change: GB (unloaded)
+[2019.11.14-12.04.46:659][549]LogBlueprintActionDatabase: Requesting refresh due to module change: GB (loaded)
+[2019.11.14-12.04.46:660][549]LogContentBrowser: Native class hierarchy updated for 'GB' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.14-12.04.46:663][549]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.11.14-12.04.46:802][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.14-12.04.46:803][549]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.11.14-12.04.46:819][549]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2735 classes and 665 folders.
+[2019.11.14-12.04.46:819][549]Display: HotReload took  5.9s.
+[2019.11.14-12.04.50:698][766]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.00:529][332]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.04:864][591]LogEditorViewport: Clicking on Actor (LMB): Character_BP_C (Character_BP)
+[2019.11.14-12.05.05:722][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.05.05:855][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.08:293][794]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/NewAnimBlueprint.NewAnimBlueprint
+[2019.11.14-12.05.08:315][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-12.05.08:671][794]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-12.05.08:978][794]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.05.11:311][923]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.05.11:321][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:321][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:321][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:321][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:321][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:322][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:322][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:322][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.11:488][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.11:489][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.11:489][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.11:489][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.11:489][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.11:489][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.11:570][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.11.14-12.05.11:575][923]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1244.06] Compile of NewAnimBlueprint successful, but with 8 Warning(s) [in 263 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.05.16:334][178]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.05.16:345][178]LogBlueprint: Error: [Compiler NewAnimBlueprint] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.11.14-12.05.16:545][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2019.11.14-12.05.16:549][178]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1249.04] Compile of NewAnimBlueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 213 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.05.40:861][554]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:870][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.40:986][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.40:987][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.40:987][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_5
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.41:021][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.11.14-12.05.41:025][554]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1273.51] Compile of NewAnimBlueprint successful, but with 8 Warning(s) [in 163 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.05.41:027][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.41:028][554]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.41:059][555]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.41:059][555]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.41:078][556]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.41:078][556]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.41:094][557]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.41:094][557]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.05.41:111][558]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_3
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.05.42:195][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.05.42:237][619]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprintA27B289A449D4BB003185B8F7AC91C33.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.05.44:220][733]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.05.44:230][733]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.05.45:652][807]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.48:411][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.50:327][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.14-12.05.54:444][330]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2019.11.14-12.05.54:477][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.11.14-12.05.54:478][330]Cmd: MAP LOAD FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-12.05.54:478][330]LightingResults: New page: Lighting Build
+[2019.11.14-12.05.54:479][330]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Loading map: Untitled.umap...
+
+Purging the undo buffer...
+
+[2019.11.14-12.05.54:479][330]LoadErrors: New page: Loading map: Untitled.umap
+[2019.11.14-12.05.54:480][330]MapCheck: New page: Map Check
+[2019.11.14-12.05.54:480][330]LightingResults: New page: Lighting Build
+[2019.11.14-12.05.54:519][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.14-12.05.54:529][330]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-12.05.54:620][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-12.05.54:651][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.14-12.05.54:681][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-12.05.54:682][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.11.14-12.05.54:683][330]LogFileHelpers: Loading map 'Untitled' took 0.205
+[2019.11.14-12.05.56:255][422]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.05.56:267][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.05.56:267][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-12.05.56:267][422]PIE: New page: PIE session: Untitled (Nov 14, 2019, 7:05:56 AM)
+[2019.11.14-12.05.56:267][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.11.14-12.05.56:270][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2019.11.14-12.05.56:270][422]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-12.05.56:271][422]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2019.11.14-12.05.56:271][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003551s)
+[2019.11.14-12.05.56:298][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.14-12.05.56:302][422]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-12.05.56:333][422]LogInit: FAudioDevice initialized.
+[2019.11.14-12.05.56:362][422]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-12.05.56:364][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.05.56:364][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.05.56:364][422]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2019.11.14-09.05.56
+[2019.11.14-12.05.56:365][422]LogWorld: Bringing up level for play took: 0.001370
+[2019.11.14-12.05.56:379][422]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.712
+[2019.11.14-12.05.56:379][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.06.24:359][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.06.24:359][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.06.24:391][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-12.06.24:391][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.06.24:427][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.06.24:431][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.14-12.06.24:439][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-12.06.24:470][101]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.14-12.06.26:101][198]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.06.26:106][198]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.06.29:945][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.06.30:100][437]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/NewAnimBlueprint.NewAnimBlueprint
+[2019.11.14-12.06.30:119][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-12.06.30:395][437]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-12.06.30:683][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.06.41:723][ 88]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:734][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:735][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:735][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.06.41:846][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_6
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.06.41:846][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_6
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.06.41:846][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_6
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0184
+[2019.11.14-12.06.41:846][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_6
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2019.11.14-12.06.41:875][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.14-12.06.41:879][ 88]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1334.37] Compile of NewAnimBlueprint successful, but with 8 Warning(s) [in 155 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.06.42:406][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.06.42:451][116]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprint5E61946548BF0854A793C5AE7D853CAF.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.07.24:231][538]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.07.24:240][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] SadWalk to Hello  will never be taken, please connect something to  Can Enter Transition
+[2019.11.14-12.07.24:246][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:246][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:246][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:247][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.24:370][538]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_7
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0189
+[2019.11.14-12.07.24:370][538]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_7
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.07.24:370][538]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_7
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0189
+[2019.11.14-12.07.24:370][538]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_7
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.07.24:408][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.14-12.07.24:414][538]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1376.90] Compile of NewAnimBlueprint successful, but with 11 Warning(s) [in 181 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.07.24:890][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.07.24:942][562]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprintA4D7D778427C997C613B13A87C3CC21B.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.07.39:580][427]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:592][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:593][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:593][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:593][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:593][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0223
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0182
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0223
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0182
+[2019.11.14-12.07.39:705][427]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_8
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.07.39:742][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.14-12.07.39:747][427]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1392.24] Compile of NewAnimBlueprint successful, but with 12 Warning(s) [in 166 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.07.40:267][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.07.40:318][455]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprint87E527694ADE9929528C8791083C4FE2.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.07.42:660][594]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.07.42:666][594]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.07.43:897][656]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/NewAnimBlueprint.NewAnimBlueprint
+[2019.11.14-12.07.43:918][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-12.07.44:194][656]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-12.07.44:483][656]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.08.03:724][793]BlueprintLog: New page: Compile NewAnimBlueprint
+[2019.11.14-12.08.03:736][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:736][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:736][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:737][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Node  Result  uses potentially thread-unsafe call  Get Player Controller . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_4
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0223
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_4
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0182
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Game/Untitled.Untitled:PersistentLevel.Character_BP_5.SkeletalMesh.NewAnimBlueprint_C_4
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0223
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0182
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.Character_BP_C_0.SkeletalMesh.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0223
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0182
+[2019.11.14-12.08.03:853][793]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1
+	NewAnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_9
+	Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0050
+[2019.11.14-12.08.03:892][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.11.14-12.08.03:896][793]LogBlueprint: Warning: [Compiler NewAnimBlueprint] [1416.39] Compile of NewAnimBlueprint successful, but with 12 Warning(s) [in 172 ms] (/Game/NewAnimBlueprint.NewAnimBlueprint)
+[2019.11.14-12.08.04:447][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset" SILENT=true
+[2019.11.14-12.08.04:497][823]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/NewAnimBlueprintE85735514DE2661B8194E89F608625A9.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/NewAnimBlueprint.uasset'
+[2019.11.14-12.08.05:527][883]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.08.05:532][883]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2019.11.14-12.08.06:702][942]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.08.06:716][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.08.06:716][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-12.08.06:716][942]PIE: New page: PIE session: Untitled (Nov 14, 2019, 7:08:06 AM)
+[2019.11.14-12.08.06:716][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.11.14-12.08.06:718][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2019.11.14-12.08.06:719][942]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-12.08.06:719][942]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2019.11.14-12.08.06:719][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003490s)
+[2019.11.14-12.08.06:754][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.14-12.08.06:757][942]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-12.08.06:787][942]LogInit: FAudioDevice initialized.
+[2019.11.14-12.08.06:820][942]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-12.08.06:821][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.08.06:821][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.08.06:821][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.08.06:822][942]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2019.11.14-09.08.06
+[2019.11.14-12.08.06:822][942]LogWorld: Bringing up level for play took: 0.001308
+[2019.11.14-12.08.06:835][942]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.256
+[2019.11.14-12.08.06:835][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.10.22:507][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.10.22:508][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.10.22:539][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-12.10.22:539][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.10.22:574][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.10.22:578][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.14-12.10.22:587][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-12.10.22:620][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.11.14-12.10.24:603][198]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.10.24:607][198]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.10.27:643][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.10.27:815][390]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Waving.Waving
+[2019.11.14-12.10.27:829][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.14-12.10.27:861][390]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.14-12.10.28:189][390]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.14-12.11.59:388][644]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.11.14-12.13.24:075][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Waving" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Waving.uasset" SILENT=true
+[2019.11.14-12.13.24:090][579]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Waving.Waving
+[2019.11.14-12.13.24:091][579]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Waving) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.14-12.13.24:107][579]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/Waving368BFBCA4A9CA10125844A8EDA1090C9.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Waving.uasset'
+[2019.11.14-12.13.25:608][666]LogSlate: Window 'Waving' being destroyed
+[2019.11.14-12.13.25:617][666]LogSlate: Window 'Waving' being destroyed
+[2019.11.14-12.13.26:603][713]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.14-12.13.26:615][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.13.26:615][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-12.13.26:615][713]PIE: New page: PIE session: Untitled (Nov 14, 2019, 7:13:26 AM)
+[2019.11.14-12.13.26:615][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2019.11.14-12.13.26:618][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002612s)
+[2019.11.14-12.13.26:619][713]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-12.13.26:619][713]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2019.11.14-12.13.26:619][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003973s)
+[2019.11.14-12.13.26:653][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.14-12.13.26:657][713]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-12.13.26:686][713]LogInit: FAudioDevice initialized.
+[2019.11.14-12.13.26:715][713]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-12.13.26:717][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.13.26:717][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.13.26:717][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue1". Blueprint:  NewAnimBlueprint Function:  Execute Ubergraph New Anim Blueprint Graph:  Transition Node:  Result
+[2019.11.14-12.13.26:717][713]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2019.11.14-09.13.26
+[2019.11.14-12.13.26:718][713]LogWorld: Bringing up level for play took: 0.001328
+[2019.11.14-12.13.26:731][713]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.36
+[2019.11.14-12.13.26:731][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.14.21:987][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.14.21:988][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.14.22:021][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-12.14.22:021][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2019.11.14-12.14.22:058][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-12.14.22:061][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.14-12.14.22:070][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-12.14.22:104][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.11.14-12.14.23:739][125]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.14.23:744][125]LogSlate: Window 'Message Log' being destroyed
+[2019.11.14-12.14.27:390][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-12.14.27:546][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-12.14.27:581][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.14-12.14.27:728][352]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/Untitled5B76026F4F2B1BABE09FCDAFB98330BE.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled.umap'
+[2019.11.14-12.14.27:757][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.11.14-12.14.27:784][352]LogSavePackage: Moving '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Saved/Untitled_BuiltData7E4E8C8C425EDADEC8765FAFF602AA6F.tmp' to '../../../../../../Users/Alexandre/Documents/AnimGB/GB/Content/Untitled_BuiltData.uasset'
+[2019.11.14-12.14.29:482][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.14-12.14.39:521][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.14-12.14.39:584][ 52]LogSlate: Window 'GB - Unreal Editor' being destroyed
+[2019.11.14-12.14.39:585][ 52]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-12.14.39:793][ 53]Cmd: QUIT_EDITOR
+[2019.11.14-12.14.40:248][ 53]LogExit: Preparing to exit.
+[2019.11.14-12.14.41:333][ 53]LogExit: Editor shut down
+[2019.11.14-12.14.41:334][ 53]LogExit: Transaction tracking system shut down
+[2019.11.14-12.14.41:559][ 53]LogExit: Object subsystem successfully closed.
+[2019.11.14-12.14.41:585][ 53]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.14-12.14.41:591][ 53]LogD3D11RHI: Shutdown
+[2019.11.14-12.14.41:591][ 53]LogD3D11RHI: CleanupD3DDevice
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.14-12.14.41:592][ 53]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-12.14.41:719][ 53]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module GB (659)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module BlueprintGraph (658)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module AnimationEditor (656)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module PinnedCommandList (654)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module SkeletonEditor (652)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.11.14-12.14.41:745][ 53]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.11.14-12.14.41:746][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.11.14-12.14.41:747][ 53]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.11.14-12.14.41:795][ 53]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.11.14-12.14.41:796][ 53]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.11.14-12.14.41:796][ 53]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.11.14-12.14.41:796][ 53]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.11.14-12.14.41:796][ 53]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.11.14-12.14.41:796][ 53]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.11.14-12.14.41:837][ 53]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.14-12.14.41:842][ 53]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.11.14-12.14.41:845][ 53]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.11.14-12.14.41:968][ 53]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.14-12.14.41:969][ 53]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.14-12.14.41:970][ 53]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.14-12.14.42:071][ 53]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.14-12.14.42:200][ 53]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.14-12.14.42:200][ 53]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.14-12.14.42:201][ 53]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.14-12.14.42:202][ 53]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.14-12.14.42:202][ 53]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.14-12.14.42:202][ 53]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.14-12.14.42:203][ 53]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.14-12.14.42:204][ 53]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.14-12.14.42:206][ 53]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.14-12.14.42:207][ 53]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.14-12.14.42:292][ 53]LogDerivedDataCache: Shutdown
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.14-12.14.42:293][ 53]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.14-12.14.42:294][ 53]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.14-12.14.42:295][ 53]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.14-12.14.42:295][ 53]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.14-12.14.42:300][ 53]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.14-12.14.42:300][ 53]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.14-12.14.42:301][ 53]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.14-12.14.42:301][ 53]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.14-12.14.42:316][ 53]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.14-12.14.42:316][ 53]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.14-12.14.42:316][ 53]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BC36F40-45E3-B139-E051-E88C6F8B2D74%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=3170b2d7453e94e11f620988efcb25ce%7C2cbb1949c0ea488b9c20602d723489e6%7C072580f1-1ab5-4006-8b23-bdb17cfd58dc&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.14-12.14.42:320][ 53]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.14-12.14.42:321][ 53]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.14-12.14.42:323][ 53]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.14-12.14.42:329][ 53]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.14-12.14.42:329][ 53]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.14-12.14.42:330][ 53]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.14-12.14.42:331][ 53]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.14-12.14.42:339][ 53]LogExit: Exiting.
+[2019.11.14-12.14.42:350][ 53]Log file closed, 11/14/19 09:14:42

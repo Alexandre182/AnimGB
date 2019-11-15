@@ -1,2 +1,2 @@
-C:\Users\Alexandre\Desktop\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\Definitions.GB.h
-c:\users\alexandre\desktop\gb\source\gb\GB.h
+C:\Users\Alexandre\Documents\AnimGB\GB\Intermediate\Build\Win64\UE4Editor\Development\GB\Definitions.GB.h
+c:\users\alexandre\documents\animgb\gb\source\gb\GB.h
